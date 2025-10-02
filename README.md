@@ -1,5 +1,11 @@
-# Olá! 👋 Eu sou a Manuela
+---
 
-- 🌱 Estudando Engenharia de Computação
-- 📊 Interessada em Ciência de Dados e IA
+# Hi there! 👋 I'm Manuela
+
+* 🌱 Currently diving into Computer Engineering
+* 📊 Passionate about Data Science & AI
+* 🚀 Always curious, learning, and building cool projects
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical)
 
