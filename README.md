@@ -8,3 +8,6 @@
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magvride&layout=compact&theme=radical)
+
+![Foto legal](assets/foto.png)
+
