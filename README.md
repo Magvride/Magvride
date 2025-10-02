@@ -5,5 +5,6 @@
 - 🚀 Always curious, learning, and building cool projects
 
 
-![Foto legal](assets/foto.png)
+![Minha Foto](https://www.opencadd.com.br/hubfs/Imported_Blog_Media/machine-redimensionado.jpg)
+
 
