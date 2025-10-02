@@ -1,10 +1,9 @@
----
-title: "Hi there! 👋 I'm Manuela"
-tags:
-  - Computer Engineering
-  - Data Science
-  - AI
----
+# Hi there! 👋 I'm Manuela
+
+- 🌱 Currently diving into Computer Engineering  
+- 📊 Passionate about Data Science & AI  
+- 🚀 Always curious, learning, and building cool projects
+
 
 ![Foto legal](assets/foto.png)
 
